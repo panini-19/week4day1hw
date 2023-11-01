@@ -1,0 +1,23 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "li2283-18.members.linode.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "thieves-db",
+            "database": "test_db",
+            "username": "postgres",
+            "password": "CodingTemple4L.."
+        },
+        {
+            "previewLimit": 50,
+            "server": "postgres://elhwiiex:qbMGSFt3CdvndgMCvln3_kVf-meW9cfN@suleiman.db.elephantsql.com/elhwiiexvln3_kVf-meW9cfN@suleiman.db.elephantsql.com/elhwiiex",
+            "driver": "PostgreSQL",
+            "name": "thieves_133",
+            "database": "elhwiiex",
+            "username": "thieves",
+            "connectString": "postgres://elhwiiex:qbMGSFt3CdvndgMCvln3_kVf-meW9cfN@suleiman.db.elephantsql.com/elhwiiex"
+        }
+    ]
+}
